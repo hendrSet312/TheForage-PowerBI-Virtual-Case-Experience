@@ -1,0 +1,501 @@
+Employee ID,Job Level before FY20 promotions,Job Level after FY20 promotions,Job Level after FY21 promotions,Gender,Maximum job position reached
+1,6,6,99,Male,6 - Junior Officer
+2,4,4,4,Female,4 - Manager
+3,2,2,2,Male,2 - Director
+4,4,4,4,Male,4 - Manager
+5,6,6,6,Female,6 - Junior Officer
+6,99,4,4,Female,4 - Manager
+7,99,3,3,Male,3 - Senior Manager
+8,5,5,5,Female,5 - Senior Officer
+9,6,6,6,Female,6 - Junior Officer
+10,6,6,6,Male,6 - Junior Officer
+11,4,4,4,Male,4 - Manager
+12,6,6,5,Female,5 - Senior Officer
+13,5,5,5,Male,5 - Senior Officer
+14,6,6,6,Male,6 - Junior Officer
+15,6,6,99,Male,6 - Junior Officer
+16,4,4,4,Male,4 - Manager
+17,6,6,6,Male,6 - Junior Officer
+18,6,6,5,Female,5 - Senior Officer
+19,5,5,5,Male,5 - Senior Officer
+20,6,5,5,Female,5 - Senior Officer
+21,3,3,99,Male,3 - Senior Manager
+22,6,6,99,Male,6 - Junior Officer
+23,2,2,2,Male,2 - Director
+24,5,5,5,Male,5 - Senior Officer
+25,4,4,4,Male,4 - Manager
+26,6,6,6,Male,6 - Junior Officer
+27,5,5,5,Female,5 - Senior Officer
+28,5,5,5,Male,5 - Senior Officer
+29,5,5,5,Female,5 - Senior Officer
+30,6,6,6,Male,6 - Junior Officer
+31,6,6,5,Female,5 - Senior Officer
+32,4,4,3,Male,3 - Senior Manager
+33,5,4,4,Male,4 - Manager
+34,5,5,4,Female,4 - Manager
+35,5,5,5,Male,5 - Senior Officer
+36,3,3,3,Male,3 - Senior Manager
+37,6,6,6,Male,6 - Junior Officer
+38,99,6,6,Female,6 - Junior Officer
+39,6,5,5,Male,5 - Senior Officer
+40,6,6,6,Male,6 - Junior Officer
+41,6,6,6,Female,6 - Junior Officer
+42,6,6,6,Female,6 - Junior Officer
+43,3,3,3,Male,3 - Senior Manager
+44,6,6,6,Female,6 - Junior Officer
+45,2,2,99,Male,2 - Director
+46,6,6,6,Male,6 - Junior Officer
+47,4,4,4,Female,4 - Manager
+48,6,6,6,Female,6 - Junior Officer
+49,6,6,6,Female,6 - Junior Officer
+50,6,6,6,Female,6 - Junior Officer
+51,5,5,4,Male,4 - Manager
+52,4,4,4,Male,4 - Manager
+53,5,5,5,Male,5 - Senior Officer
+54,5,5,4,Male,4 - Manager
+55,6,6,6,Female,6 - Junior Officer
+56,99,6,6,Male,6 - Junior Officer
+57,4,4,99,Female,4 - Manager
+58,5,5,4,Male,4 - Manager
+59,6,6,6,Male,6 - Junior Officer
+60,6,6,99,Male,6 - Junior Officer
+61,6,6,6,Female,6 - Junior Officer
+62,5,5,99,Female,5 - Senior Officer
+63,6,6,6,Male,6 - Junior Officer
+64,2,2,2,Male,2 - Director
+65,2,2,2,Female,2 - Director
+66,4,3,3,Female,3 - Senior Manager
+67,3,2,2,Male,2 - Director
+68,5,5,5,Male,5 - Senior Officer
+69,6,6,6,Female,6 - Junior Officer
+70,5,5,5,Male,5 - Senior Officer
+71,4,4,4,Female,4 - Manager
+72,5,5,5,Female,5 - Senior Officer
+73,99,2,2,Male,2 - Director
+74,5,5,99,Female,5 - Senior Officer
+75,6,6,6,Female,6 - Junior Officer
+76,4,4,3,Female,3 - Senior Manager
+77,3,3,3,Male,3 - Senior Manager
+78,5,5,5,Female,5 - Senior Officer
+79,99,6,6,Male,6 - Junior Officer
+80,5,5,5,Female,5 - Senior Officer
+81,2,2,2,Male,2 - Director
+82,6,6,6,Male,6 - Junior Officer
+83,6,6,6,Female,6 - Junior Officer
+84,6,6,6,Female,6 - Junior Officer
+85,2,2,99,Male,2 - Director
+86,6,6,6,Female,6 - Junior Officer
+87,1,1,1,Male,1 - Executive
+88,6,6,5,Male,5 - Senior Officer
+89,99,3,3,Male,3 - Senior Manager
+90,6,5,5,Male,5 - Senior Officer
+91,6,5,4,Male,4 - Manager
+92,6,6,6,Male,6 - Junior Officer
+93,2,2,2,Male,2 - Director
+94,4,4,99,Male,4 - Manager
+95,3,3,99,Male,3 - Senior Manager
+96,6,6,6,Male,6 - Junior Officer
+97,4,4,4,Female,4 - Manager
+98,2,2,2,Male,2 - Director
+99,6,6,6,Female,6 - Junior Officer
+100,3,3,3,Male,3 - Senior Manager
+101,6,6,6,Female,6 - Junior Officer
+102,4,4,4,Female,4 - Manager
+103,6,6,6,Male,6 - Junior Officer
+104,5,5,5,Female,5 - Senior Officer
+105,99,4,4,Male,4 - Manager
+106,2,2,2,Male,2 - Director
+107,6,6,6,Female,6 - Junior Officer
+108,3,3,3,Male,3 - Senior Manager
+109,99,6,6,Male,6 - Junior Officer
+110,5,5,5,Male,5 - Senior Officer
+111,99,5,5,Female,5 - Senior Officer
+112,6,6,6,Female,6 - Junior Officer
+113,2,2,2,Male,2 - Director
+114,4,4,4,Male,4 - Manager
+115,2,2,99,Male,2 - Director
+116,5,5,5,Male,5 - Senior Officer
+117,5,4,4,Male,4 - Manager
+118,3,3,99,Female,3 - Senior Manager
+119,6,6,6,Female,6 - Junior Officer
+120,5,5,4,Male,4 - Manager
+121,6,6,99,Male,6 - Junior Officer
+122,3,3,3,Male,3 - Senior Manager
+123,6,6,6,Female,6 - Junior Officer
+124,6,6,6,Female,6 - Junior Officer
+125,99,3,3,Male,3 - Senior Manager
+126,99,6,6,Female,6 - Junior Officer
+127,1,1,1,Male,1 - Executive
+128,1,1,1,Male,1 - Executive
+129,6,6,6,Male,6 - Junior Officer
+130,6,6,6,Female,6 - Junior Officer
+131,6,6,6,Male,6 - Junior Officer
+132,6,6,6,Male,6 - Junior Officer
+133,4,4,4,Female,4 - Manager
+134,4,4,4,Male,4 - Manager
+135,6,6,6,Female,6 - Junior Officer
+136,6,6,6,Male,6 - Junior Officer
+137,3,3,2,Male,2 - Director
+138,6,6,5,Female,5 - Senior Officer
+139,6,6,6,Female,6 - Junior Officer
+140,3,3,3,Male,3 - Senior Manager
+141,4,3,3,Male,3 - Senior Manager
+142,99,3,3,Male,3 - Senior Manager
+143,6,6,99,Female,6 - Junior Officer
+144,99,1,1,Male,1 - Executive
+145,4,4,4,Male,4 - Manager
+146,6,6,6,Male,6 - Junior Officer
+147,99,4,4,Female,4 - Manager
+148,6,6,6,Male,6 - Junior Officer
+149,4,4,4,Male,4 - Manager
+150,4,4,4,Male,4 - Manager
+151,5,5,99,Female,5 - Senior Officer
+152,2,2,2,Male,2 - Director
+153,99,3,3,Female,3 - Senior Manager
+154,6,6,6,Male,6 - Junior Officer
+155,6,6,6,Female,6 - Junior Officer
+156,6,6,99,Male,6 - Junior Officer
+157,99,5,5,Female,5 - Senior Officer
+158,6,6,6,Male,6 - Junior Officer
+159,3,3,3,Male,3 - Senior Manager
+160,4,3,3,Male,3 - Senior Manager
+161,4,4,4,Male,4 - Manager
+162,6,6,6,Male,6 - Junior Officer
+163,4,4,4,Male,4 - Manager
+164,5,5,99,Male,5 - Senior Officer
+165,6,6,6,Female,6 - Junior Officer
+166,5,5,5,Male,5 - Senior Officer
+167,3,3,3,Male,3 - Senior Manager
+168,5,5,5,Male,5 - Senior Officer
+169,5,5,5,Female,5 - Senior Officer
+170,4,4,4,Male,4 - Manager
+171,4,4,4,Female,4 - Manager
+172,3,3,3,Male,3 - Senior Manager
+173,6,5,5,Female,5 - Senior Officer
+174,2,2,2,Male,2 - Director
+175,6,5,4,Male,4 - Manager
+176,3,3,2,Female,2 - Director
+177,4,4,4,Male,4 - Manager
+178,5,5,5,Male,5 - Senior Officer
+179,5,5,4,Male,4 - Manager
+180,3,3,99,Male,3 - Senior Manager
+181,6,5,5,Female,5 - Senior Officer
+182,6,6,99,Female,6 - Junior Officer
+183,5,5,5,Female,5 - Senior Officer
+184,99,6,6,Male,6 - Junior Officer
+185,99,6,6,Male,6 - Junior Officer
+186,6,6,6,Female,6 - Junior Officer
+187,5,5,5,Male,5 - Senior Officer
+188,5,5,5,Male,5 - Senior Officer
+189,6,6,6,Female,6 - Junior Officer
+190,5,5,5,Female,5 - Senior Officer
+191,5,5,99,Male,5 - Senior Officer
+192,99,2,2,Male,2 - Director
+193,4,4,99,Male,4 - Manager
+194,99,6,6,Female,6 - Junior Officer
+195,5,5,5,Male,5 - Senior Officer
+196,99,3,3,Male,3 - Senior Manager
+197,6,6,6,Male,6 - Junior Officer
+198,6,6,99,Female,6 - Junior Officer
+199,6,6,6,Female,6 - Junior Officer
+200,5,5,99,Male,5 - Senior Officer
+201,99,5,5,Female,5 - Senior Officer
+202,4,4,4,Male,4 - Manager
+203,6,6,6,Male,6 - Junior Officer
+204,99,6,6,Male,6 - Junior Officer
+205,3,3,3,Male,3 - Senior Manager
+206,5,4,4,Male,4 - Manager
+207,99,2,2,Male,2 - Director
+208,6,6,6,Female,6 - Junior Officer
+209,6,6,6,Female,6 - Junior Officer
+210,4,4,99,Female,4 - Manager
+211,6,6,6,Male,6 - Junior Officer
+212,99,5,5,Male,5 - Senior Officer
+213,2,2,2,Female,2 - Director
+214,99,6,6,Female,6 - Junior Officer
+215,4,4,3,Male,3 - Senior Manager
+216,5,5,99,Female,5 - Senior Officer
+217,6,6,6,Female,6 - Junior Officer
+218,5,5,5,Male,5 - Senior Officer
+219,99,3,3,Female,3 - Senior Manager
+220,5,5,5,Male,5 - Senior Officer
+221,99,5,5,Female,5 - Senior Officer
+222,2,2,1,Male,1 - Executive
+223,5,5,99,Female,5 - Senior Officer
+224,3,3,3,Male,3 - Senior Manager
+225,6,5,5,Male,5 - Senior Officer
+226,6,6,6,Male,6 - Junior Officer
+227,4,4,99,Male,4 - Manager
+228,5,5,4,Male,4 - Manager
+229,3,3,3,Male,3 - Senior Manager
+230,6,6,99,Female,6 - Junior Officer
+231,3,3,3,Male,3 - Senior Manager
+232,6,6,5,Female,5 - Senior Officer
+233,99,6,6,Female,6 - Junior Officer
+234,6,6,5,Female,5 - Senior Officer
+235,4,4,4,Male,4 - Manager
+236,6,6,6,Female,6 - Junior Officer
+237,6,6,5,Female,5 - Senior Officer
+238,99,6,6,Female,6 - Junior Officer
+239,4,4,4,Male,4 - Manager
+240,6,6,6,Female,6 - Junior Officer
+241,4,4,4,Female,4 - Manager
+242,5,5,99,Male,5 - Senior Officer
+243,3,2,2,Male,2 - Director
+244,3,3,3,Male,3 - Senior Manager
+245,5,5,99,Female,5 - Senior Officer
+246,6,6,99,Male,6 - Junior Officer
+247,6,6,6,Male,6 - Junior Officer
+248,5,4,4,Male,4 - Manager
+249,6,6,6,Male,6 - Junior Officer
+250,6,6,99,Male,6 - Junior Officer
+251,6,6,5,Male,5 - Senior Officer
+252,6,6,6,Female,6 - Junior Officer
+253,6,6,6,Male,6 - Junior Officer
+254,6,6,6,Female,6 - Junior Officer
+255,6,6,6,Male,6 - Junior Officer
+256,5,5,5,Female,5 - Senior Officer
+257,1,1,1,Male,1 - Executive
+258,6,6,6,Male,6 - Junior Officer
+259,6,6,6,Female,6 - Junior Officer
+260,5,5,5,Male,5 - Senior Officer
+261,4,4,4,Female,4 - Manager
+262,3,2,2,Male,2 - Director
+263,99,5,5,Male,5 - Senior Officer
+264,6,6,5,Male,5 - Senior Officer
+265,4,4,4,Female,4 - Manager
+266,5,5,5,Female,5 - Senior Officer
+267,6,5,5,Female,5 - Senior Officer
+268,6,6,6,Female,6 - Junior Officer
+269,5,5,4,Male,4 - Manager
+270,6,6,6,Female,6 - Junior Officer
+271,4,4,4,Female,4 - Manager
+272,99,2,2,Female,2 - Director
+273,6,6,6,Female,6 - Junior Officer
+274,6,6,6,Male,6 - Junior Officer
+275,2,2,99,Female,2 - Director
+276,6,6,6,Male,6 - Junior Officer
+277,6,6,6,Male,6 - Junior Officer
+278,3,3,3,Male,3 - Senior Manager
+279,6,6,6,Male,6 - Junior Officer
+280,99,1,1,Male,1 - Executive
+281,6,6,6,Male,6 - Junior Officer
+282,2,2,2,Male,2 - Director
+283,6,6,6,Male,6 - Junior Officer
+284,6,6,6,Male,6 - Junior Officer
+285,6,6,6,Male,6 - Junior Officer
+286,5,4,4,Male,4 - Manager
+287,99,6,6,Female,6 - Junior Officer
+288,5,5,5,Male,5 - Senior Officer
+289,5,5,5,Female,5 - Senior Officer
+290,6,6,6,Female,6 - Junior Officer
+291,4,4,4,Female,4 - Manager
+292,6,6,6,Male,6 - Junior Officer
+293,6,6,5,Female,5 - Senior Officer
+294,99,4,4,Female,4 - Manager
+295,5,5,5,Female,5 - Senior Officer
+296,6,6,6,Male,6 - Junior Officer
+297,6,6,6,Male,6 - Junior Officer
+298,3,3,3,Female,3 - Senior Manager
+299,6,6,5,Male,5 - Senior Officer
+300,4,4,4,Male,4 - Manager
+301,6,6,6,Female,6 - Junior Officer
+302,6,6,6,Female,6 - Junior Officer
+303,99,4,4,Male,4 - Manager
+304,3,3,3,Female,3 - Senior Manager
+305,6,6,5,Male,5 - Senior Officer
+306,6,6,6,Female,6 - Junior Officer
+307,6,6,6,Male,6 - Junior Officer
+308,99,5,5,Female,5 - Senior Officer
+309,4,4,99,Male,4 - Manager
+310,99,4,4,Female,4 - Manager
+311,6,6,6,Female,6 - Junior Officer
+312,5,5,5,Female,5 - Senior Officer
+313,6,6,6,Male,6 - Junior Officer
+314,99,6,6,Female,6 - Junior Officer
+315,99,6,6,Female,6 - Junior Officer
+316,2,1,1,Male,1 - Executive
+317,6,6,5,Female,5 - Senior Officer
+318,99,3,3,Female,3 - Senior Manager
+319,6,6,5,Male,5 - Senior Officer
+320,99,5,5,Female,5 - Senior Officer
+321,3,3,3,Male,3 - Senior Manager
+322,3,3,3,Female,3 - Senior Manager
+323,5,5,5,Male,5 - Senior Officer
+324,4,3,2,Male,2 - Director
+325,5,5,5,Female,5 - Senior Officer
+326,2,2,2,Male,2 - Director
+327,5,4,4,Male,4 - Manager
+328,5,5,5,Female,5 - Senior Officer
+329,4,4,99,Female,4 - Manager
+330,4,4,99,Female,4 - Manager
+331,6,6,6,Female,6 - Junior Officer
+332,6,6,6,Male,6 - Junior Officer
+333,6,6,6,Male,6 - Junior Officer
+334,6,6,6,Male,6 - Junior Officer
+335,6,6,6,Female,6 - Junior Officer
+336,6,6,6,Male,6 - Junior Officer
+337,2,2,2,Male,2 - Director
+338,6,6,6,Female,6 - Junior Officer
+339,4,4,4,Female,4 - Manager
+340,5,5,5,Male,5 - Senior Officer
+341,99,6,6,Female,6 - Junior Officer
+342,4,4,4,Female,4 - Manager
+343,1,1,1,Female,1 - Executive
+344,5,5,4,Male,4 - Manager
+345,6,6,6,Female,6 - Junior Officer
+346,4,4,4,Male,4 - Manager
+347,3,3,3,Male,3 - Senior Manager
+348,5,5,5,Male,5 - Senior Officer
+349,6,6,6,Female,6 - Junior Officer
+350,6,6,99,Male,6 - Junior Officer
+351,4,4,4,Male,4 - Manager
+352,6,6,5,Male,5 - Senior Officer
+353,5,5,5,Female,5 - Senior Officer
+354,99,6,6,Female,6 - Junior Officer
+355,99,6,6,Male,6 - Junior Officer
+356,5,5,4,Male,4 - Manager
+357,6,6,6,Female,6 - Junior Officer
+358,5,5,5,Female,5 - Senior Officer
+359,5,5,5,Female,5 - Senior Officer
+360,99,5,5,Male,5 - Senior Officer
+361,3,3,3,Male,3 - Senior Manager
+362,6,6,6,Female,6 - Junior Officer
+363,1,1,1,Male,1 - Executive
+364,6,5,5,Male,5 - Senior Officer
+365,4,4,4,Male,4 - Manager
+366,6,6,5,Female,5 - Senior Officer
+367,99,5,5,Female,5 - Senior Officer
+368,99,5,5,Male,5 - Senior Officer
+369,5,5,99,Female,5 - Senior Officer
+370,6,6,6,Female,6 - Junior Officer
+371,6,6,6,Male,6 - Junior Officer
+372,4,4,3,Male,3 - Senior Manager
+373,4,4,4,Male,4 - Manager
+374,4,4,4,Female,4 - Manager
+375,5,5,5,Female,5 - Senior Officer
+376,4,3,3,Male,3 - Senior Manager
+377,6,6,6,Female,6 - Junior Officer
+378,99,6,6,Male,6 - Junior Officer
+379,6,5,5,Female,5 - Senior Officer
+380,6,6,6,Female,6 - Junior Officer
+381,6,6,6,Male,6 - Junior Officer
+382,6,6,6,Male,6 - Junior Officer
+383,3,3,99,Male,3 - Senior Manager
+384,99,6,6,Male,6 - Junior Officer
+385,3,3,2,Male,2 - Director
+386,6,6,6,Female,6 - Junior Officer
+387,4,4,4,Female,4 - Manager
+388,6,6,6,Male,6 - Junior Officer
+389,6,6,6,Male,6 - Junior Officer
+390,6,6,6,Male,6 - Junior Officer
+391,4,4,4,Male,4 - Manager
+392,4,3,3,Male,3 - Senior Manager
+393,5,5,5,Male,5 - Senior Officer
+394,4,4,4,Male,4 - Manager
+395,6,6,6,Male,6 - Junior Officer
+396,6,6,6,Female,6 - Junior Officer
+397,99,4,4,Male,4 - Manager
+398,5,4,4,Male,4 - Manager
+399,6,6,6,Male,6 - Junior Officer
+400,99,6,6,Female,6 - Junior Officer
+401,6,6,6,Female,6 - Junior Officer
+402,99,5,5,Female,5 - Senior Officer
+403,6,6,6,Male,6 - Junior Officer
+404,1,1,1,Male,1 - Executive
+405,1,1,1,Male,1 - Executive
+406,3,3,3,Male,3 - Senior Manager
+407,2,2,2,Male,2 - Director
+408,5,5,5,Male,5 - Senior Officer
+409,6,6,6,Female,6 - Junior Officer
+410,99,5,5,Male,5 - Senior Officer
+411,99,4,4,Female,4 - Manager
+412,5,5,5,Female,5 - Senior Officer
+413,2,2,2,Male,2 - Director
+414,6,5,5,Female,5 - Senior Officer
+415,6,6,6,Male,6 - Junior Officer
+416,3,3,3,Male,3 - Senior Manager
+417,3,3,3,Male,3 - Senior Manager
+418,6,6,5,Female,5 - Senior Officer
+419,6,6,6,Male,6 - Junior Officer
+420,5,5,5,Female,5 - Senior Officer
+421,2,2,1,Male,1 - Executive
+422,6,6,6,Female,6 - Junior Officer
+423,6,6,6,Male,6 - Junior Officer
+424,99,6,6,Female,6 - Junior Officer
+425,2,1,1,Male,1 - Executive
+426,6,6,6,Female,6 - Junior Officer
+427,99,1,1,Male,1 - Executive
+428,5,5,99,Female,5 - Senior Officer
+429,4,3,3,Male,3 - Senior Manager
+430,5,5,5,Male,5 - Senior Officer
+431,4,4,4,Male,4 - Manager
+432,6,6,6,Female,6 - Junior Officer
+433,2,2,2,Male,2 - Director
+434,99,4,4,Female,4 - Manager
+435,4,4,3,Female,3 - Senior Manager
+436,6,6,6,Female,6 - Junior Officer
+437,4,4,4,Male,4 - Manager
+438,2,2,2,Male,2 - Director
+439,6,6,99,Female,6 - Junior Officer
+440,5,4,3,Male,3 - Senior Manager
+441,99,6,6,Female,6 - Junior Officer
+442,5,5,4,Female,4 - Manager
+443,6,6,6,Male,6 - Junior Officer
+444,6,5,5,Male,5 - Senior Officer
+445,4,4,4,Male,4 - Manager
+446,2,2,2,Male,2 - Director
+447,6,6,6,Female,6 - Junior Officer
+448,3,3,3,Male,3 - Senior Manager
+449,6,6,6,Male,6 - Junior Officer
+450,5,5,5,Male,5 - Senior Officer
+451,5,5,5,Male,5 - Senior Officer
+452,6,6,6,Female,6 - Junior Officer
+453,2,2,2,Male,2 - Director
+454,5,5,4,Male,4 - Manager
+455,1,1,1,Female,1 - Executive
+456,5,5,5,Male,5 - Senior Officer
+457,5,5,4,Male,4 - Manager
+458,3,3,3,Female,3 - Senior Manager
+459,6,6,6,Female,6 - Junior Officer
+460,4,4,4,Male,4 - Manager
+461,6,6,6,Female,6 - Junior Officer
+462,4,4,3,Male,3 - Senior Manager
+463,6,6,6,Female,6 - Junior Officer
+464,6,6,6,Male,6 - Junior Officer
+465,3,3,3,Male,3 - Senior Manager
+466,6,6,6,Female,6 - Junior Officer
+467,2,2,1,Male,1 - Executive
+468,1,1,99,Male,1 - Executive
+469,6,6,6,Male,6 - Junior Officer
+470,6,6,6,Female,6 - Junior Officer
+471,6,6,6,Male,6 - Junior Officer
+472,6,6,6,Male,6 - Junior Officer
+473,4,4,3,Female,3 - Senior Manager
+474,4,4,4,Male,4 - Manager
+475,6,6,6,Female,6 - Junior Officer
+476,6,6,6,Female,6 - Junior Officer
+477,2,2,1,Female,1 - Executive
+478,99,6,6,Female,6 - Junior Officer
+479,6,6,99,Male,6 - Junior Officer
+480,99,3,3,Male,3 - Senior Manager
+481,3,3,3,Male,3 - Senior Manager
+482,3,3,3,Male,3 - Senior Manager
+483,6,6,99,Female,6 - Junior Officer
+484,99,1,1,Male,1 - Executive
+485,5,4,4,Male,4 - Manager
+486,6,6,99,Female,6 - Junior Officer
+487,5,4,4,Female,4 - Manager
+488,6,6,6,Female,6 - Junior Officer
+489,99,4,4,Male,4 - Manager
+490,99,3,3,Male,3 - Senior Manager
+491,99,5,5,Female,5 - Senior Officer
+492,2,2,2,Male,2 - Director
+493,4,4,3,Male,3 - Senior Manager
+494,6,6,6,Female,6 - Junior Officer
+495,6,6,6,Female,6 - Junior Officer
+496,6,6,6,Male,6 - Junior Officer
+497,5,5,5,Female,5 - Senior Officer
+498,6,6,6,Male,6 - Junior Officer
+499,4,3,3,Male,3 - Senior Manager
+500,4,4,3,Male,3 - Senior Manager
